@@ -1,0 +1,87 @@
+.open-sans-normal {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  .nav-title{
+font-weight: 800;
+font-size: 45px;
+  }
+.title-prymari{
+    color: #FD6E0A;
+}
+
+/* header */
+.header{
+  background-image: url(images/developer.png), url(images/header_bg.png);
+  background-repeat: no-repeat;
+  background-position: top left,bottom right ;
+
+}
+/* nav */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px;
+}
+.dark-2{
+  color: #474747;
+}
+.btn-primary{
+  background-color: #FD6E0A;
+  color:white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  padding: 18px 35px;
+
+}
+.btn-primary-2{
+  background-color:white;
+  color: #FD6E0A;
+  border: 2px solid #FD6E0A;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 16px 33px;
+}
+nav ul{
+  display: flex;
+  align-items: center;
+}
+nav ul li{
+  list-style: none;
+  margin-right: 50px;
+}
+ul li a{
+  text-decoration: none;
+}
+.banner{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 38px 0 150px;
+}
+.banner-text{
+max-width: 580px;
+}
+.banner-text-1{
+  color: #474747;
+  font-weight: 600;
+  font-size: 45px;
+}
+.banner-text-2{
+  font-size: 85px;
+  font-weight: bold;
+}
+.banner-text-3{
+  color: #474747;
+  font-size: 18px;
+}
+.img{
+  width: 580px;
+  height: 670px;
+}
