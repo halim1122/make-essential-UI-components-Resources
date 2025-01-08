@@ -130,3 +130,36 @@ main{
   padding:30px;
   box-shadow: 0px 06px 50px 0px rgba(0, 0, 0,0.06);
 }
+.resumes{
+  display: flex;
+}
+.per{
+  font-size: 30px;
+  font-weight: bold;
+}
+.pera{
+  margin: 30px 35px 30px 0px;
+}
+.pera-1{
+font-weight: bold;
+font-size: 25px;
+}
+.pera-2{
+  font-size: 20px;
+  font-weight:600;
+}
+.pera-3{
+  font-size: 16px;
+  font-weight:400;
+}
+.contect{
+  display: flex;
+}
+.contect-1{
+  font-weight: bold;
+  font-size: 35px;
+}
+.contect-2{
+  font-weight: 400;
+  font-size: 16px;
+}
